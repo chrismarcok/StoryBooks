@@ -1,0 +1,15 @@
+{
+  "name": "storybooks",
+  "version": "1.0.0",
+  "description": "app to share stories",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Christopher Marcok",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.3"
+  }
+}
